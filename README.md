@@ -101,22 +101,79 @@ Dashboard ini dirancang untuk memberikan wawasan kepada tim HR mengenai faktor-f
 
 
 ## Conclusion
-Berdasarkan analisis data tentang pegawai yang mengalami attrition, berikut adalah karakteristik umum yang ditemukan:
+# 📊 HR Dashboard – Employee Analytics
 
-1. **Age**: Pegawai yang mengalami attrition mayoritas berada dalam rentang usia 26 hingga 39 tahun, yang menunjukkan bahwa usia produktif menjadi faktor yang cukup signifikan dalam tingkat pergantian pegawai.
-   
-2. **Department**: Departemen yang mengalami tingkat attrition tertinggi adalah "Penelitian & Pengembangan" (107 pegawai), diikuti oleh departemen "Penjualan" (66 pegawai). Hal ini mengindikasikan bahwa ada permasalahan khusus di departemen-departemen tersebut.
+![Dashboard Preview](./Dashboard%201.jpg)
 
-3. **Job Role**: Peran yang mengalami attrition tertinggi adalah "Peneliti Ilmiah" (38 pegawai), serta "Eksekutif Penjualan" (39 pegawai). Ini dapat menjadi acuan untuk fokus pengelolaan pada peran-peran tersebut.
+Dashboard ini menyajikan visualisasi data karyawan untuk membantu pengambilan keputusan strategis dalam manajemen SDM. Fokus utama analisis adalah distribusi karyawan berdasarkan usia, gender, dan departemen, serta metrik attrition (pengunduran diri).
 
-4. **Gender**: Pegawai yang pria mengalami attrition dalam jumlah lebih banyak dibandingkan pegawai yang wanita.
+---
 
-5. **Marital Status**: Pegawai yang belum menikah (single) mengalami attrition dalam jumlah lebih banyak dibandingkan pegawai yang sudah menikah atau bercerai.
+## ✅ Ringkasan Metrik
 
-Dengan menggunakan dashboard ini, tim HR Jaya Jaya Maju dapat melakukan analisis yang lebih mendalam terhadap attrition dan mengambil langkah-langkah yang lebih tepat untuk mengurangi tingkat pergantian karyawan. Dengan informasi ini, HR dapat:
-- Fokus pada departemen atau kelompok usia tertentu yang memiliki tingkat pergantian tinggi.
-- Merancang program retensi yang lebih spesifik berdasarkan faktor-faktor seperti usia, jenis kelamin, dan status pernikahan.
-- Meningkatkan keterlibatan karyawan dengan merancang kebijakan yang dapat mengurangi kelelahan atau meningkatkan kepuasan kerja.
+| Metrik                 | Nilai         |
+|------------------------|---------------|
+| Total Karyawan         | 1.058 orang   |
+| Rata-rata Usia Keluar  | 37.06 tahun   |
+| Komposisi Gender       | Male: 58.6% / Female: 41.4% |
+
+---
+
+## 🧠 Analisis dan Insight
+
+### 1. **Total Karyawan**
+Organisasi memiliki total **1.058** karyawan aktif. Ini mencerminkan organisasi dengan skala operasional menengah hingga besar, yang perlu strategi manajemen SDM terstruktur.
+
+### 2. **Attrition by Age**
+- Rata-rata usia karyawan yang mengundurkan diri adalah **37.06 tahun**.
+- Ini menunjukkan attrition terjadi pada usia produktif, kemungkinan karena stagnasi karier atau daya tarik dari perusahaan lain.
+
+### 3. **Distribusi Gender**
+- **Male:** 58.6%
+- **Female:** 41.4%
+- Proporsi gender cukup seimbang namun menunjukkan sedikit dominasi laki-laki.
+- Ini bisa menjadi referensi untuk memperkuat program kesetaraan dan keberagaman (diversity & inclusion).
+
+### 4. **Distribusi Karyawan per Departemen**
+- **Research & Development (R&D):** Departemen terbesar (sekitar 700 karyawan), menunjukkan fokus utama organisasi adalah inovasi.
+- **Sales:** Departemen kedua terbesar, penting dalam mendukung pertumbuhan pasar.
+- **Human Resources:** Ukuran kecil namun strategis, mungkin membutuhkan penguatan SDM untuk mendukung pertumbuhan internal.
+
+---
+
+## 📌 Kesimpulan
+
+Dashboard ini menunjukkan:
+- Area yang perlu diperhatikan dalam retensi karyawan.
+- Komposisi SDM yang bisa digunakan untuk evaluasi keberagaman.
+- Alokasi tenaga kerja per departemen yang bisa menjadi dasar pengembangan dan pelatihan internal.
+
+---
+
+## 📂 Dataset & Tools
+
+- **Data Source:** `employee_data.csv` → dimigrasikan ke PostgreSQL
+- **Tools:**
+  - [Metabase](https://www.metabase.com/)
+  - PostgreSQL
+  - SQL Native Query
+- **Visualisasi:** Metabase Dashboard Builder
+
+---
+
+## 💡 Rekomendasi Selanjutnya
+
+- Tambahkan analisis berdasarkan **masa kerja** dan **lembur (OverTime)**
+- Integrasi dengan data performa dan kepuasan kerja
+- Bangun sistem peringatan dini untuk potensi attrition
+
+---
+
+## 👤 Author
+
+**Andrian Syah**  
+HR Analytics Enthusiast | Data-Driven Dashboard Builder  
+
 
 ### Rekomendasi Action Items (Optional)
 
