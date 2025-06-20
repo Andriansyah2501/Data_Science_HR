@@ -99,8 +99,6 @@ Dashboard ini dirancang untuk memberikan wawasan kepada tim HR mengenai faktor-f
 3. Menghitung attrition rate dan menganalisis distribusi pergantian berdasarkan usia, jenis kelamin, departemen, status pernikahan, dan peran pekerjaan.
 4. Membantu tim HR untuk mengidentifikasi area dengan tingkat pergantian tinggi dan fokus pada strategi retensi yang lebih efektif.
 
-![Business_Dashboard_1](auric_21_dashboard_1.png)
-![Business_Dashboard_2](auric_21_dashboard_2.png)
 
 ## Conclusion
 Berdasarkan analisis data tentang pegawai yang mengalami attrition, berikut adalah karakteristik umum yang ditemukan:
