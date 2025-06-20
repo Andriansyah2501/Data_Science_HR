@@ -100,8 +100,6 @@ Dashboard ini dirancang untuk memberikan wawasan kepada tim HR mengenai faktor-f
 4. Membantu tim HR untuk mengidentifikasi area dengan tingkat pergantian tinggi dan fokus pada strategi retensi yang lebih efektif.
 
 
-## Conclusion
-# 📊 HR Dashboard – Employee Analytics
 
 ![Dashboard Preview](./Dashboard%201.jpg)
 
