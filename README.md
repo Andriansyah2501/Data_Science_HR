@@ -172,14 +172,6 @@ Dashboard ini menunjukkan:
 ## 👤 Author
 
 **Andrian Syah**  
-HR Analytics Enthusiast | Data-Driven Dashboard Builder  
 
 
-### Rekomendasi Action Items (Optional)
 
-1. Meningkatkan Program Retensi di Departemen dengan Tingkat Pergantian Tinggi
-- Fokus pada Research & Development dan Sales, karena keduanya memiliki tingkat pergantian yang lebih tinggi.
-2. Pengembangan Kebijakan Fleksibel untuk Kelompok Usia Tertentu
-- Jika kelompok usia tertentu lebih sering mengundurkan diri, pertimbangkan untuk memberikan program pengembangan karir atau kebijakan kesejahteraan yang lebih fokus.
-3. Program Kesejahteraan untuk Meningkatkan Retensi
-- Untuk mengurangi attrition, perusahaan bisa menawarkan manfaat tambahan seperti keseimbangan kerja-hidup yang lebih baik atau jam kerja fleksibel.
