@@ -101,7 +101,7 @@ Dashboard ini dirancang untuk memberikan wawasan kepada tim HR mengenai faktor-f
 
 
 
-![Dashboard Preview](./Dashboard%201.jpg)
+![Dashboard Preview](./ian2501-Dashboard.jpg)
 
 Dashboard ini menyajikan visualisasi data karyawan untuk membantu pengambilan keputusan strategis dalam manajemen SDM. Fokus utama analisis adalah distribusi karyawan berdasarkan usia, gender, dan departemen, serta metrik attrition (pengunduran diri).
 
