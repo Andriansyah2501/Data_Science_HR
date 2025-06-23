@@ -169,7 +169,11 @@ Dashboard ini menunjukkan:
 
 ## 👤 Author
 
-**Andrian Syah**  
+**Andrian Syah**
+
+Kredeensial METABASE :
+ian122110@gmail.com
+ZEb*rHt7*xw5g@v
 
 
 
