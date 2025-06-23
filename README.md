@@ -172,8 +172,8 @@ Dashboard ini menunjukkan:
 **Andrian Syah**
 
 Kredeensial METABASE :
-ian122110@gmail.com
-ZEb*rHt7*xw5g@v
+Email : ian122110@gmail.com
+Pass : ZEb*rHt7*xw5g@v
 
 
 
